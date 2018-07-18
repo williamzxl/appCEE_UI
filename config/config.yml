@@ -1,0 +1,40 @@
+- appium_url: http://127.0.0.1:4723/wd/hub
+#Test
+
+- desired_caps_info:
+    platformName: Android
+    platformVersion: '6.0'
+    deviceName: LE67A06290366048
+#    appPackage: com.langlib.cet
+    appPackage: com.langlib.cee
+#    appActivity: com.langlib.cet.MainActivity
+    appActivity: com.langlib.cee.ui.main.SplashActivity
+    apk_file: 38b400794c5fd8f912a918eb9ac36162.apk
+    background_time: 5
+    unicodeKeyboard: True
+    resetKeyboard: True
+    #noReset: False
+    #conn_type: 6
+               # NO_CONNECTION = 0
+               # AIRPLANE_MODE = 1
+               # WIFI_ONLY = 2
+               # DATA_ONLY = 4
+               # ALL_NETWORK_ON = 6
+
+- log-Cfg:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern:  '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+- mail_cfg:
+    user: 18519893004@163.com
+    password: xxxxxxxxx
+    smtp: smtp.163.com
+    revivers:
+        - 18519893004@163.com
+        - 1053418947@qq.com
+    subject: LangBO_CEE_API_Test_Result_0514
+    content:
+        - <h1>LangBO_CEE_API_Test_Result_0514</h1>

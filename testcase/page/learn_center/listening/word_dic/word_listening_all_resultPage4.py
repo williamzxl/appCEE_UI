@@ -1,8 +1,9 @@
 from selenium.webdriver.common.by import By
 from testcase.page.learn_center.listening.word_dic.word_listening_resultPage3 import WLAnswerResultPage
+from testcase.page.common_page.word_lists_result import Word_Lists_ResultPage
 
 
-class WLAllAnswerPage(WLAnswerResultPage):
+class WLAllAnswerPage(WLAnswerResultPage, Word_Lists_ResultPage):
     '''
     单词听写结果展示页
     '''

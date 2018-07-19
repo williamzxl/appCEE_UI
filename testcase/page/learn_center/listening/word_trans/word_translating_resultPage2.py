@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from testcase.page.learn_center.listening.word_trans.word_translating_ChooseAnswerPage import WTChooseAnswerPage
 
 
-class WLAnswerResultPage(WTChooseAnswerPage, AllCommonEle):
+class WTAnswerResultPage(WTChooseAnswerPage, AllCommonEle):
     '''
     单词听译题目判定页
     '''

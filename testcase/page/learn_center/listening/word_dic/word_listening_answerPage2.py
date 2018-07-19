@@ -2,7 +2,7 @@ import re
 from time import sleep
 from selenium.webdriver.common.by import By
 from testcase.page.common_page.webview_common_ele import ItemLists, AllCommonEle
-from testcase.page.learn_center.listening.word_dic.word_listening_listsPage1 import WLLists
+# from testcase.page.learn_center.listening.word_dic.word_listening_listsPage1 import WLLists
 # from testcase.page.login_page.loginPage import LoginPage
 # from selenium.webdriver.common.keys import Keys
 

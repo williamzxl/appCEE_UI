@@ -1,6 +1,6 @@
 # from time import sleep
 from testcase.page.learn_center.listening.word_dic.word_listening_all_resultPage4 import WLAllAnswerPage
-from testcase.interface.sysListening.answer import get_all_answer,right_answer, wrong_answer
+from testcase.interface.sysListening.word_dict.answer import get_all_answer,right_answer, wrong_answer
 
 login_page = WLAllAnswerPage()
 login_page.open(noReset=True)

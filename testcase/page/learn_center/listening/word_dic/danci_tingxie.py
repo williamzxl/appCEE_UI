@@ -2,7 +2,7 @@ import re
 from time import sleep
 from selenium.webdriver.common.by import By
 from testcase.page.learn_center.listening.word_dic.word_listening_resultPage3 import WLAnswerResultPage
-from testcase.interface.sysListening.answer import get_all_answer, right_answer, wrong_answer
+from testcase.interface.sysListening.word_dict.answer import get_all_answer, right_answer, wrong_answer
 
 account_text = (By.LINK_TEXT, u'账号密码登录')
 account_id = (By.ID, "com.langlib.cee:id/account_login_account")

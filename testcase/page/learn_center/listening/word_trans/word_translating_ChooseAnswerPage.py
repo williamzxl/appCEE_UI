@@ -39,13 +39,13 @@ class WTChooseAnswerPage(AllCommonEle, ItemLists):
         sleep(0.5)
 
     def choose_answer(self, answers=None):
-        if answers == 'a':
+        if answers.lower() == 'a':
             self.find_element(*self.answer_a_id).click()
-        if answers == 'b':
+        if answers.lower() == 'b':
             self.find_element(*self.answer_b_id).click()
-        if answers == 'c':
+        if answers.lower() == 'c':
             self.find_element(*self.answer_c_id).click()
-        if answers == 'd':
+        if answers.lower() == 'd':
             self.find_element(*self.answer_d_id).click()
         else:
             self.find_element(*self.i_dont_know_id).click()

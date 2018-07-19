@@ -2,117 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a1368c-fddc-467d-b2db-66fa46c39efc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_175455.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_175649.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_175814.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_175947.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_180249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_181316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_181521.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_181736.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_182306.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_182414.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_184120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_184511.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/No KEYBoard_20180718/screen_shot_185936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175522.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175646.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175704.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175718.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175742.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175756.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175808.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_175944.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180402.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180426.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180607.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180736.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180836.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_180920.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_181024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_181312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_181518.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_181733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_181836.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_182303.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_182411.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184303.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184345.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184601.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184717.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184755.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184825.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_184913.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185322.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185423.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185552.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185642.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185842.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/Word_20180718/播放截图_185933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175519.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175531.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175701.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175715.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175740.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175806.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180423.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180521.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180603.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180833.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_180917.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_181021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_181833.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_181911.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_182406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184342.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184558.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184714.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184752.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184822.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184910.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_184958.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185549.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185639.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185742.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185839.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_185923.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/word_dict_all_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_trans/get_word_trans_answer_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_trans/word_trans_all_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/page/common_page/word_lists_result.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/common/web_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/common/web_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/interface/sysListening/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/interface/sysListening/get_listening_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_listening_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/interface/sysListening/get_one_list_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_one_list_content.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/danci_tingxie.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/danci_tingxie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_listsPage1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_listsPage1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,18 +31,22 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$word_listening_listsPage1.coverage" NAME="word_listening_listsPage1 Coverage Results" MODIFIED="1531716376816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening" />
     <SUITE FILE_PATH="coverage/Langbo_WebUI_Test$No_test_baidu.coverage" NAME="No_test_baidu Coverage Results" MODIFIED="1528960084617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/case" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$word_trans_all_answer.coverage" NAME="word_trans_all_answer Coverage Results" MODIFIED="1531967039149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening/word_trans" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$login_method.coverage" NAME="login_method Coverage Results" MODIFIED="1531275826161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$answer.coverage" NAME="answer Coverage Results" MODIFIED="1531379455694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1531910657149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$word_dict_all_answer.coverage" NAME="word_dict_all_answer Coverage Results" MODIFIED="1531967035793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening/word_dict" />
     <SUITE FILE_PATH="coverage/Langbo_WebUI_Test$logger.coverage" NAME="logger Coverage Results" MODIFIED="1528716005949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1531305797132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Langbo_WebUI_Test$config.coverage" NAME="config Coverage Results" MODIFIED="1528190067388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$web_view.coverage" NAME="web_view Coverage Results" MODIFIED="1531226565971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/common" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$sys_listening.coverage" NAME="sys_listening Coverage Results" MODIFIED="1531380007936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1531906465277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$get_word_dict_answer_lists.coverage" NAME="get_word_dict_answer_lists Coverage Results" MODIFIED="1531965270508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening/word_dict" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$log.coverage" NAME="log Coverage Results" MODIFIED="1531278112520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$danci_tingxie.coverage" NAME="danci_tingxie Coverage Results" MODIFIED="1531707266660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$loginPage.coverage" NAME="loginPage Coverage Results" MODIFIED="1531227191948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test_trans.coverage" NAME="test_trans Coverage Results" MODIFIED="1531996846990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans" />
     <SUITE FILE_PATH="coverage/Langbo_WebUI_Test$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1528190259224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$Unittests_for_test_account_login_TestLogin.coverage" NAME="Unittests for test_account_login.TestLogin Coverage Results" MODIFIED="1531297796760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/case" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$logger.coverage" NAME="logger Coverage Results" MODIFIED="1531223337358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
@@ -143,104 +54,17 @@
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$get_one_list_content.coverage" NAME="get_one_list_content Coverage Results" MODIFIED="1531444975052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$login_method__1_.coverage" NAME="login_method (1) Coverage Results" MODIFIED="1531293974852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/login_page" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$config.coverage" NAME="config Coverage Results" MODIFIED="1530190079147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1531967995886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test_reg_login.coverage" NAME="test_reg_login Coverage Results" MODIFIED="1530176982386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/case" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$Unittests_in_test_account_login_py.coverage" NAME="Unittests in test_account_login.py Coverage Results" MODIFIED="1531299536600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/case" />
-    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test.coverage" NAME="test Coverage Results" MODIFIED="1531715523301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening" />
+    <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$test.coverage" NAME="test Coverage Results" MODIFIED="1531966350188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/interface/sysListening/word_dict" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$view_operation.coverage" NAME="view_operation Coverage Results" MODIFIED="1530619259723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/common" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$run_all_test.coverage" NAME="run_all_test Coverage Results" MODIFIED="1531303752694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$danci_tingxie__1_.coverage" NAME="danci_tingxie (1) Coverage Results" MODIFIED="1531904446631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
     <SUITE FILE_PATH="coverage/Langbo_APP_UI_Test$basePage.coverage" NAME="basePage Coverage Results" MODIFIED="1531226694026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/common" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <element signature="e#25#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_translating_ChooseAnswerPage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_translating_resultPage2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_listening_all_resultPage4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_translating_all_resultPage3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_listening_answerPage2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_listening_resultPage3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webview_common_ele.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -254,9 +78,9 @@
       <find>1008</find>
       <find>确定</find>
       <find>1000</find>
-      <find>学习中心</find>
       <find>android.widget.TextView</find>
       <find>单词</find>
+      <find>学习中心</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -265,18 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testcase/page/reg_login.py" />
-        <option value="$PROJECT_DIR$/testcase/case/test_reg_login.py" />
-        <option value="$PROJECT_DIR$/testcase/common/browser.py" />
-        <option value="$PROJECT_DIR$/testcase/page/login.py" />
-        <option value="$PROJECT_DIR$/testcase/common/view_operation.py" />
-        <option value="$PROJECT_DIR$/testcase/page/loginPage.py" />
-        <option value="$PROJECT_DIR$/testcase/page/login_method.py" />
-        <option value="$PROJECT_DIR$/utils/config.py" />
-        <option value="$PROJECT_DIR$/utils/log.py" />
-        <option value="$PROJECT_DIR$/testcase/page/login_page/test.py" />
-        <option value="$PROJECT_DIR$/testcase/case/test_baidu_pom.py" />
-        <option value="$PROJECT_DIR$/run_all_test.py" />
         <option value="$PROJECT_DIR$/testcase/page/login_page/login_method.py" />
         <option value="$PROJECT_DIR$/utils/file_reader.py" />
         <option value="$PROJECT_DIR$/testcase/case/test_account_login.py" />
@@ -286,8 +98,6 @@
         <option value="$PROJECT_DIR$/testcase/page/login_page/loginPage.py" />
         <option value="$PROJECT_DIR$/testcase/interface/sysListening/get_one_list_content.py" />
         <option value="$PROJECT_DIR$/testcase/interface/sysListening/answer.py" />
-        <option value="$PROJECT_DIR$/testcase/common/basePage.py" />
-        <option value="$PROJECT_DIR$/testcase/common/web_view.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_listening_all_result.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_listeningPage.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_listening_all_resultPage.py" />
@@ -305,17 +115,31 @@
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_listening_answerPage2.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_listening_listsPage1.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/danci_tingxie.py" />
-        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test2.py" />
-        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_listsPage1.py" />
         <option value="$PROJECT_DIR$/config/config.yml" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_listsPage1.py" />
-        <option value="$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_listening_answerPage.py" />
-        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py" />
-        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py" />
         <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_one_list_content.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_listening_lists.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_word_dict_answer_lists.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/test.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/word_dict_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_listsPage1.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/test.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py" />
+        <option value="$PROJECT_DIR$/testcase/interface/sysListening/word_trans/word_trans_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py" />
+        <option value="$PROJECT_DIR$/testcase/page/common_page/word_lists_result.py" />
+        <option value="$PROJECT_DIR$/testcase/common/basePage.py" />
+        <option value="C:/Program Files/Python36/Lib/site-packages/appium/webdriver/webdriver.py" />
+        <option value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/test_trans.py" />
+        <option value="$PROJECT_DIR$/testcase/common/web_view.py" />
       </list>
     </option>
   </component>
@@ -363,6 +187,11 @@
             <path>
               <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Langbo_APP_UI_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Langbo_APP_UI_Test" type="462c0819:PsiDirectoryNode" />
               <item name="testcase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -389,6 +218,22 @@
               <item name="testcase" type="462c0819:PsiDirectoryNode" />
               <item name="interface" type="462c0819:PsiDirectoryNode" />
               <item name="sysListening" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Langbo_APP_UI_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="sysListening" type="462c0819:PsiDirectoryNode" />
+              <item name="word_dict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Langbo_APP_UI_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="sysListening" type="462c0819:PsiDirectoryNode" />
+              <item name="word_trans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
@@ -425,15 +270,6 @@
               <item name="page" type="462c0819:PsiDirectoryNode" />
               <item name="learn_center" type="462c0819:PsiDirectoryNode" />
               <item name="listening" type="462c0819:PsiDirectoryNode" />
-              <item name="word_dic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Langbo_APP_UI_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Langbo_APP_UI_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="learn_center" type="462c0819:PsiDirectoryNode" />
-              <item name="listening" type="462c0819:PsiDirectoryNode" />
               <item name="word_trans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -456,22 +292,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CEE/高考项目/测试用例/Appium/Hello" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\interface\sysListening\word_dict" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening\word_dic" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\login_page" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\interface\sysListening\word_dict" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening\word_trans" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\common_page" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening" />
       <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase" />
-      <recent name="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\phone_login_page" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -486,8 +323,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="danci_tingxie (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_trans">
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Langbo_WebUI_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -495,31 +332,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/danci_tingxie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Langbo_WebUI_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening\word_trans\test_trans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -533,18 +351,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening\word_dic\test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_trans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Langbo_WebUI_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -552,18 +370,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/test_trans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="word_listening_listsPage1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_dict_all_answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Langbo_WebUI_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -571,30 +389,49 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/page/learn_center/listening" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\liuda\Desktop\Langbo_APP_UI_Test\testcase\page\learn_center\listening\word_dic\word_listening_listsPage1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/interface/sysListening/word_dict/word_dict_all_answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="word_trans_all_answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Langbo_WebUI_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/interface/sysListening/word_trans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/interface/sysListening/word_trans/word_trans_all_answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.word_dict_all_answer" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.word_listening_listsPage1" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.danci_tingxie (1)" />
-      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.word_trans_all_answer" />
+      <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.test_trans" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.danci_tingxie (1)" />
-        <item itemvalue="Python.word_listening_listsPage1" />
+        <item itemvalue="Python.test_trans" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.word_trans_all_answer" />
+        <item itemvalue="Python.word_dict_all_answer" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -649,9 +486,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2827225" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2827225" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29021826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2950687" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -667,27 +504,27 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56666666" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32201257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56666666" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39721254" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,136 +539,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testcase/common/web_view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#25#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_listsPage1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/login_page/loginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="457" lean-forward="true" selection-start-line="457" selection-end-line="457" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/case/test_baidu_pom.py" />
-    <entry file="file://$PROJECT_DIR$/log/test.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/gen_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/support.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run_all_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -895,13 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/get_listening_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/interface/test_baidu_http.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -930,40 +630,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/site-packages/appium/webdriver/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="573" selection-start-line="573" selection-end-line="573" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/get_one_list_content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/common_ele.py">
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/common_ele.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,23 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="3813" selection-start-line="1" selection-start-column="3811" selection-end-line="1" selection-end-column="3813" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/common/web_view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/page/login_page/loginPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1011,29 +665,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_listsPage1.py">
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_listsPage1.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/common/basePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        <state relative-caret-position="-2316">
+          <caret line="1" column="3813" selection-start-line="1" selection-start-column="3811" selection-end-line="1" selection-end-column="3813" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_one_list_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_one_list_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/test.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/word_dict_all_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
           <folding>
-            <element signature="e#25#129#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1048,10 +722,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_answerPage2.py">
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_dict/get_listening_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_trans/get_word_trans_answer_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/interface/sysListening/word_trans/word_trans_all_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -1060,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/page/common_page/webview_common_ele.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="76">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -1070,44 +785,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_ChooseAnswerPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="320">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_resultPage2.py">
+    <entry file="file://$PROJECT_DIR$/testcase/page/common_page/word_lists_result.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_resultPage3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="233">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_dic/word_listening_all_resultPage4.py">
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/selenium/webdriver/common/touch_actions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="320">
+          <caret line="170" column="28" lean-forward="true" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/word_translating_all_resultPage3.py">
+    <entry file="file://$PROJECT_DIR$/testcase/common/basePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="1045">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/common/web_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="265" column="8" selection-start-line="265" selection-start-column="8" selection-end-line="265" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/learn_center/listening/word_trans/test_trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/No KEYBoard_20180719/screen_shot_105422.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/No KEYBoard_20180719/screen_shot_105409.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Word_20180718/播放截图_175452.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Word_20180718/播放截图_175508.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Word_20180719/播放截图_105406.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Word_20180719/播放截图_105432.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Word_Trans_20180719/播放截图_105734.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/题目判定页_20180718/screen_shot_175505.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/题目判定页_20180719/screen_shot_105416.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

@@ -1,7 +1,9 @@
 import re
 from testcase.page.login_page.loginPage import LoginPage
 from selenium.webdriver.common.by import By
-from testcase.interface.sysListening.answer import get_all_answer, right_answer, wrong_answer
+from testcase.interface.sysListening.word_dict.word_dict_all_answer import get_all_dict_answer
+
+
 # from selenium.webdriver.common.keys import Keys
 
 
@@ -65,6 +67,6 @@ if __name__ == "__main__":
     eles = login_page.get_all_list_ele()
     for i in eles:
         num = login_page.get_list_num(login_page, i)
-        print(get_all_answer(list=num))
+        print(get_all_dict_answer(list=num))
         if login_page.click_one_list(login_page, i) != 0:
             pass

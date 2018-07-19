@@ -1,4 +1,5 @@
 import re
+from time import sleep
 from selenium.webdriver.common.by import By
 from testcase.common.basePage import BasePage
 from testcase.page.login_page.loginPage import LoginPage
@@ -30,11 +31,12 @@ class ItemLists(LoginPage):
 
     def click_one_list(self, driver, ele):
         ele.click()
+        sleep(1)
         all_info = driver.page_source()
         print("ALL INFO:", all_info)
-        if self.next_button_ele_id in all_info:
-            print("This is one word listening result page")
-            return 1
+        # if self.next_button_ele_id in all_info:
+        #     print("This is one word listening result page")
+        #     return 1
         # if "{}".format(str(self.next_button_id).strip("(|)").split(',')[1]) in all_info:
         #     print("{}".format(str(self.next_button_id).strip("(|)").split(',')[1]))
         #     print("This is one word listening result page")
@@ -53,7 +55,7 @@ class ItemLists(LoginPage):
         # if self.learn_center_ele_class in all_info:
         #     print("This is all word listening result page")
         #     return 3
-        if "学习中心" in all_info:
+        if '学习中心' in all_info:
             print("This is all word listening result page")
             return 3
         else:

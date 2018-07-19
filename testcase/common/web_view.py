@@ -2,8 +2,8 @@ import time
 import os
 from appium import webdriver
 from appium.webdriver.connectiontype import ConnectionType
-
-from utils.config import get_desired_caps, APK_PATH, REPORT_PATH
+# from appium.webdriver.webdriver import WebDriver
+from utils.config import get_desired_caps, REPORT_PATH
 
 TYPES = {'remote': webdriver.Remote}
 
@@ -48,8 +48,31 @@ class WebView(object):
         screenshot = self.driver.save_screenshot(screenshot_path + '\\%s_%s.png' % (file_name, tm))
         return screenshot
 
-    def get_window_size(self):
-        return self.driver.get_window_size()
+    def getSize(self):
+        x = self.driver.get_window_size()['width']
+        y = self.driver.get_window_size()['height']
+        return (x, y)
+
+    def flickUp(self, x, y1, y2):
+        x = int(x * 0.8)
+        # y1 = int(y1 * 0.9)
+        # y2 = int(y2 * 0.9)
+        self.driver.flick(x, y1, x, y2)
+
+    def flickDown(self, x, y1, y2):
+        self.driver.flick(x, y2, x, y1)
+
+    def swipeUp(self, x, y1, y2, t=500):
+        x = int(x * 0.8)
+        # y1 = int(y1 * 0.8)
+        # y2 = int(y2 * 0.95)
+        self.driver.swipe(x, y1, x, y2, t)
+
+    def swipeDown(self, x, y1, y2, t=5):
+        x = int(x * 0.8)
+        # y1 = int(y1 * 0.9)
+        # y2 = int(y2 * 0.9)
+        self.driver.swipe(x, y2, x, y1, t)
 
     def hideKeyboard(self):
         self.driver.hide_keyboard()

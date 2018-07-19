@@ -30,7 +30,7 @@ print(eles)
 print(eles[0])
 # for ele in eles:
 #     print(ele)
-for ele in eles[:1]:
+for ele in eles[12:13]:
     regx = re.compile(r'(\d)+')
     text = login_page.getText(ele)
     result = regx.search(text)

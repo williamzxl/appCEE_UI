@@ -1,13 +1,13 @@
 import re
 from time import sleep
 from selenium.webdriver.common.by import By
-from testcase.page.common_page.webview_common_ele import AllCommonEle
+from testcase.page.common_page.webview_common_ele import ItemLists, AllCommonEle
 from testcase.page.learn_center.listening.word_dic.word_listening_listsPage1 import WLLists
 # from testcase.page.login_page.loginPage import LoginPage
 # from selenium.webdriver.common.keys import Keys
 
 
-class WLFillAnswerPage(AllCommonEle, WLLists):
+class WLFillAnswerPage(AllCommonEle, ItemLists):
     '''
     单词听写题目作答页
     '''
@@ -46,13 +46,18 @@ class WLFillAnswerPage(AllCommonEle, WLLists):
         total_num = result[1]
         return current_num, total_num
 
-    def click_audio_button(self):
+    def click_dict_audio_button(self):
         self.find_element(*self.audio_icon_id).click()
         sleep(0.5)
 
-    def fill_answer(self, answer=None):
-        self.find_element(*self.input_btn_class).send_keys(answer)
-        # self.send_keys(Keys.ENTER)
+    def fill_answer(self, answers=None):
+        self.find_element(*self.input_btn_class).send_keys(answers)
+        sleep(1)
+        self.pressKeyCode("66")
+        # input_boxes = self.find_elements(*self.input_btn_class)
+        # for box, answer in zip(input_boxes, answers):
+        #     print(box, answer)
+        #     box.send_keys(answer)
 
 
 if __name__ == "__main__":

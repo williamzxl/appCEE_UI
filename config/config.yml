@@ -4,6 +4,8 @@
 - desired_caps_info:
     platformName: Android
     platformVersion: '6.0'
+#    platformVersion: '8.0'
+#    deviceName: 8BN0217606003525
     deviceName: LE67A06290366048
 #    appPackage: com.langlib.cet
     appPackage: com.langlib.cee

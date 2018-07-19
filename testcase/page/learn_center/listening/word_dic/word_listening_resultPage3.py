@@ -1,9 +1,10 @@
 from selenium.webdriver.common.by import By
 # from testcase.page.login_page.loginPage import LoginPage
 from testcase.page.learn_center.listening.word_dic.word_listening_answerPage2 import WLFillAnswerPage
+from testcase.page.common_page.webview_common_ele import AllCommonEle
 
 
-class WLAnswerResultPage(WLFillAnswerPage):
+class WLAnswerResultPage(WLFillAnswerPage, AllCommonEle):
     '''
     单词听写题目判定页
     '''
